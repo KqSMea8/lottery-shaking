@@ -1,0 +1,116 @@
+/*html,*/
+/*body {*/
+/*height: 100%;*/
+/*}*/
+
+/*.wrap {*/
+/*min-height: 100%;*/
+/*height: auto;*/
+/*position: relative;*/
+/*}*/
+
+/*.wrap > .container {*/
+/*position: absolute;*/
+/*top: 51px;*/
+/*left: 0;*/
+/*right: 0;*/
+/*bottom: 0;*/
+/*}*/
+/*html,*/
+/*body {*/
+/*height: 100%;*/
+/*}*/
+
+/*.wrap {*/
+/*min-height: 100%;*/
+/*height: auto;*/
+/*position: relative;*/
+/*}*/
+
+/*.wrap > .container {*/
+/*position: absolute;*/
+/*top: 51px;*/
+/*left: 0;*/
+/*right: 0;*/
+/*bottom: 0;*/
+/*}*/
+/*html,*/
+/*body {*/
+/*height: 100%;*/
+/*}*/
+
+/*.wrap {*/
+/*min-height: 100%;*/
+/*height: auto;*/
+/*position: relative;*/
+/*}*/
+
+/*.wrap > .container {*/
+/*position: absolute;*/
+/*top: 51px;*/
+/*left: 0;*/
+/*right: 0;*/
+/*bottom: 0;*/
+/*}*/
+/*html,*/
+/*body {*/
+/*height: 100%;*/
+/*}*/
+
+/*.wrap {*/
+/*min-height: 100%;*/
+/*height: auto;*/
+/*position: relative;*/
+/*}*/
+
+/*.wrap > .container {*/
+/*position: absolute;*/
+/*top: 51px;*/
+/*left: 0;*/
+/*right: 0;*/
+/*bottom: 0;*/
+/*}*/
+/*html,*/
+/*body {*/
+/*height: 100%;*/
+/*}*/
+
+/*.wrap {*/
+/*min-height: 100%;*/
+/*height: auto;*/
+/*position: relative;*/
+/*}*/
+
+/*.wrap > .container {*/
+/*position: absolute;*/
+/*top: 51px;*/
+/*left: 0;*/
+/*right: 0;*/
+/*bottom: 0;*/
+/*}*/
+
+
+
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.wrap {
+    min-height: 100%;
+}
+
+
+.wrap > .container {
+    left: 0;
+    right: 0;
+    display: block;
+    padding-top: 50px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    display: block;
+}
